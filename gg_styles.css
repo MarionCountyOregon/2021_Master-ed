@@ -1,0 +1,116 @@
+body {background-image: url('image1.png');}
+pre {color: white; background-color: rgb(0, 0, 0, 1.0); text-align: center;}
+div {
+  padding: 10px;
+}
+div.black_20percent {
+  background: rgba(0, 0, 0, 0.2);
+  color: pink;
+}
+div.black_50percent {
+  background: rgba(255, 255, 255, 0.5);
+  color: black;
+}
+div.black_70percent {
+  background: rgba(0, 0, 0, 0.7);
+  color: white;
+}
+div.black {
+  background: rgba(0, 0, 0, 1.0);
+  color: white;
+}
+
+
+div.khaki {
+  background: rgba(240, 230, 140, 0.333);
+  color: white;
+}
+div.salmon {
+  background: rgba(250, 128, 114, 0.333);
+  color: pink;
+}
+div.cadetblue {
+  background: rgba(95, 158, 160, 0.333);
+  color: lime;
+}
+
+
+div.darkkhaki {
+  background: rgba(189, 183, 107, 0.333);
+  color: white;
+}
+div.coral {
+  background: rgba(255, 127, 80, 0.333);
+}
+div.indianred {
+  background: rgba(205, 92, 92, 0.333);
+  color: pink;
+}
+div.thistle {
+  background: rgba(216, 191, 216, 0.333);
+  color: pink;
+}
+div.cornflowerblue {
+  background: rgba(100, 149, 237, 0.333);
+  color: lime;
+}
+div.darkseagreen {
+  background: rgba(143, 188, 143, 0.333);
+}
+
+div.lightgoldenrodyellow {
+  background: rgba(250, 250, 210, 0.333);
+  color: white;
+}
+div.tomato {
+  background: rgba(255, 99, 71, 0.333);
+}
+div.firebrick {
+  background: rgba(178, 34, 34, 0.333);
+  color: pink;
+}
+div.rebeccapurple {
+  background: rgba(102, 51, 153, 0.333);
+}
+div.royalblue {
+  background: rgba(65, 105, 225, 0.333);
+  color: lime;
+}
+div.seagreen {
+  background: rgba(46, 139, 87, 0.333);
+}
+div.mistyrose {
+  background: rgba(255, 228, 225, 0.333);
+}
+div.dimgray {
+  background: rgba(105, 105, 105, 0.6);
+  color: white;
+}
+div.gainsboro {
+  background: rgba(220, 220, 220, 0.333);
+  color: pink;
+}
+div.palevioletred {
+  background: rgba(219, 112, 147, 0.333);
+  color: pink;
+}
+div.mediumturquoise {
+  background: rgba(72, 209, 204, 0.333);
+  color: lime;
+}
+div.saddlebrown {
+  background: rgba(139, 69, 19, 0.333);
+  color: tan;
+}
+
+div.black {
+  background: rgba(0, 0, 0, 0.67);
+  color: white;
+}
+div.white {
+  background: rgba(255, 255, 255, 0.67);
+}
+div.grey {
+  background: rgba(128, 128, 128, 0.5);
+  color: pink;
+}

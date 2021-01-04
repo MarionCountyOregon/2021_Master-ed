@@ -28,3 +28,9 @@ So, my 2030 千羽鶴 senbazuru breaks down like this in my mind: (千){羽}[鶴
 [鶴] crane [goal/destination]
 {羽} feathers {ingredients/verb/style}
 (千) iterations (1000/∞)
+
+Primary Issues in this project will use these html color names: khaki > salmon > cadetblue
+Secondary Issues will use darkkhaki > coral > indianred > thistle > cornflowerblue > darkseagreen
+Tertiary Issues will use lightgoldenrodyellow > tomato > firebrick > rebeccapurple > royalblue > seagreen > mistyrose > dimgray > gainsboro > palevioletred > mediumturquoise > saddlebrown
+
+"Drumpf" Issues are white on black > black on white > pink on grey > grey on pink (the last two being purposefully difficult to see, but easier once highlighted)
